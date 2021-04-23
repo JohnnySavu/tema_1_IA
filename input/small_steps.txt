@@ -1,0 +1,9 @@
+alb negru gri
+stare_initiala
+2 2 negru
+3 0
+100 100 alb
+2 1 negru
+2 1 negru
+stare_finala
+3 gri

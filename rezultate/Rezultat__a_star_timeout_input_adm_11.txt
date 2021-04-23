@@ -1,0 +1,46 @@
+Duration: 0.9407432079315186
+Cost: 4
+Length: 5 
+Maximum nodes in memory: 1980
+Generated successors: 2419
+Path:
+-------------------------------------
+1
+0: 5 4 rosu
+1: 2 2 galben
+2: 3 0 
+3: 7 3 albastru
+4: 1 0 
+5: 4 3 rosu
+2
+Din vasul 1 s-au turnat 1 litri de apa de culoare galben in vasul 0
+0: 5 5 nedefinit
+1: 2 1 galben
+2: 3 0 
+3: 7 3 albastru
+4: 1 0 
+5: 4 3 rosu
+3
+Din vasul 3 s-au turnat 1 litri de apa de culoare albastru in vasul 1
+0: 5 5 nedefinit
+1: 2 2 verde
+2: 3 0 
+3: 7 2 albastru
+4: 1 0 
+5: 4 3 rosu
+4
+Din vasul 5 s-au turnat 3 litri de apa de culoare rosu in vasul 3
+0: 5 5 nedefinit
+1: 2 2 verde
+2: 3 0 
+3: 7 5 mov
+4: 1 0 
+5: 4 0 
+5
+Din vasul 3 s-au turnat 3 litri de apa de culoare mov in vasul 2
+0: 5 5 nedefinit
+1: 2 2 verde
+2: 3 3 mov
+3: 7 2 mov
+4: 1 0 
+5: 4 0 
